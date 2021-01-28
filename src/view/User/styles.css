@@ -1,0 +1,26 @@
+.all {
+    padding-top: 3rem;
+    width: 100%;
+    height: 100%;
+    background: #191622;
+    padding-bottom: 2rem;
+}
+
+.login-form {
+    background: #312e3a;
+    border-radius: .3rem;
+    padding: 2.4rem !important;
+    color: white !important;
+}
+
+.cad-title {
+    font-family: nunito;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 600px) {
+    .rm-pd{
+        padding: 0px !important;
+    }
+}
